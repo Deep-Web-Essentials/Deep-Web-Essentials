@@ -1,6 +1,7 @@
-<a href="https://github.com/Deep-Web-Essentials">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Deep-Web-Essentials/&title=Profile%20Views&edge_flat=false" alt="Profile Views">
-</a>
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-3214-black" alt="Profile Views">
+</p>
 
 <!-- Header -->
 <p align="center">
